@@ -1,0 +1,6 @@
+MD5:		qfoTduI/ON82P76WOQCScA==
+RIPEMD160:	6C29Wcp07VOpthuhja5vj+nuEbY=
+SHA1:		CLnou7aU4xtgUMiAwtZyLPapylg=
+SHA256:		ZeAeCWrUi8VlkyOi4Sem1lsTxHgRmdiKjM5IoO1tpKc=
+SHA384:		9S1p3apCwUeqHAGtdPuC3HrsdvBcVvikN7hwzyqqi7dfYYU23Yzby9GAph1I/M1q
+SHA512:		2mLrwksSCFDpSQPB39vqv200vb3OMCk3eAlnjq75f9jVojcgOXjo6ruqftRVl1O1kgMFHVPfO1GcxCNT67RVrA==
